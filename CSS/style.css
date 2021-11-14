@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2? family = Open + Sans: wght @ 500 & family = Roboto: ital, wght @ 0,100; 0,500; 1,100; 1,500 & display = swap' );
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Syuku&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url("../img/SP10.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    
+}
+
+#titulo{
+    font-family: roboto , sans-serif;
+    color: rgb(224, 224, 223);
+    background-color: rgba(130, 132, 138, 0.918);
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+    
+}
+
+#video{
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+#texto{
+    font-size: 22px;
+    padding: 10px 45px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: 10px;
+    font-family: roboto , sans-serif;
+    
+}
+#curi{
+    text-align: center;
+    font-size: 50px;
+    padding: 10px 45px;
+    text-align: center;
+    color: rgb(224, 224, 223);
+    margin-top: 10px;
+    font-family: 'Yuji Syuku', serif;
+}
+
+
