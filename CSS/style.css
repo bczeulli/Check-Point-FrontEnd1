@@ -4,6 +4,13 @@
     margin: 0;
     padding: 0;
 }
+@media only screen and (max-device-width: 900px) {
+    #cabeçalho { width:100%; }
+    .principal { width:100%; }
+    #video { width:100%; }
+    #footer { width:100%; }
+
+    }
 body {
     background-image: url("../img/SPmasp1.jpg");
     background-size: cover;
