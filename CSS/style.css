@@ -5,7 +5,7 @@
     padding: 0;
 }
 body {
-    background-image: url("../img/SP10.jpg");
+    background-image: url("../img/SPmasp1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     box-sizing: border-box;
@@ -34,6 +34,8 @@ body {
     color: rgb(255, 255, 255);
     margin-top: 10px;
     font-family: roboto , sans-serif;
+    font-style: oblique;
+    text-shadow: 0.1em 0.1em 0.3em black;
     
 }
 #curi{
@@ -41,9 +43,33 @@ body {
     font-size: 50px;
     padding: 10px 45px;
     text-align: center;
-    color: rgb(224, 224, 223);
+    color: rgb(255, 255, 255);
     margin-top: 10px;
     font-family: 'Yuji Syuku', serif;
+    font-style: oblique;
+    text-shadow: 0.1em 0.1em 0.3em black;
 }
 
+ul {
+    font-size: 22px;
+    padding: 10px 45px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: 10px;
+    font-family: roboto , sans-serif;
+    font-style: oblique; 
+    text-shadow: 0.1em 0.1em 0.3em black;
+    list-style: none
+}
+
+#footer {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#icon {
+    margin: 10px;
+    width: 90px;
+    height: 90px;
+}
 
