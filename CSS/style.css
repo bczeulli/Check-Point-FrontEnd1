@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
 }
-@media only screen and (max-device-width: 2000px) {
+@media only screen and (max-device-width: 900px) {
     #cabeçalho { width:100%; }
     .principal { width:100%; }
     #youtube { width:100%; }
