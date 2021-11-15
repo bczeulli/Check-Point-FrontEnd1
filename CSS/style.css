@@ -4,10 +4,10 @@
     margin: 0;
     padding: 0;
 }
-@media only screen and (max-device-width: 900px) {
+@media only screen and (max-device-width: 2000px) {
     #cabeçalho { width:100%; }
     .principal { width:100%; }
-    #video { width:100%; }
+    #youtube { width:100%; }
     #footer { width:100%; }
 
     }
@@ -29,7 +29,11 @@ body {
     
 }
 
-#video{
+.video{
+    padding: 30px;
+}
+
+#youtube{
     display: block;
     margin: 0 auto;
     margin-top: 20px;
